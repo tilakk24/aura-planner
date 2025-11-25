@@ -1,0 +1,12 @@
+{
+  "name": "aura-planner-website",
+  "version": "1.0.0",
+  "description": "Aura Planner - Event Planning and Management Website",
+  "scripts": {
+    "dev": "python -m http.server 8000",
+    "build": "echo 'No build step required for static site'"
+  },
+  "keywords": ["event", "planning", "wedding", "corporate", "party"],
+  "author": "",
+  "license": "ISC"
+}

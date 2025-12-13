@@ -1,3 +1,4 @@
+
 // Mobile Menu Toggle
 const mobileMenuToggle = document.getElementById('mobileMenuToggle');
 const navLinks = document.getElementById('navLinks');
@@ -191,4 +192,4 @@ style.textContent = `
 `;
 document.head.appendChild(style);
 
-console.log('Eventify - Event Planning Website Loaded Successfully!');
+console.log('Archi Tech - Architecture Portfolio Website Loaded Successfully!');

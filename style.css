@@ -9,21 +9,21 @@
 }
 
 :root {
-  /* ===== COLOR PALETTE - EASY TO CUSTOMIZE ===== */
-  /* Main accent color - change this to update the entire theme */
-  --accent: #000000;
-  --accent-dark: #1a1a1a;
-  --accent-light: #333333;
+  /* ===== COLOR PALETTE - ARCHITECTURE THEME ===== */
+  /* Main accent color - sophisticated slate blue for architecture */
+  --accent: #2c3e50;
+  --accent-dark: #1a252f;
+  --accent-light: #34495e;
 
   /* Text colors */
-  --text-primary: #000000;
-  --text-secondary: #333333;
-  --text-light: #666666;
+  --text-primary: #2c3e50;
+  --text-secondary: #34495e;
+  --text-light: #7f8c8d;
 
   /* Background colors */
   --bg-primary: #ffffff;
-  --bg-secondary: #f5f5f5;
-  --bg-light: #eeeeee;
+  --bg-secondary: #f8f9fa;
+  --bg-light: #ecf0f1;
 
   /* Borders and shadows */
   --border-color: #cccccc;
@@ -596,7 +596,6 @@ p {
   display: flex;
   flex-direction: column;
   align-items: center;
-  gap: var(--spacing-sm);
   margin-top: var(--spacing-lg);
 }
 
